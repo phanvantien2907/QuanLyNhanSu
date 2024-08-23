@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\trinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\trinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\quanlyhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\quanlyhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\trinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\trinhdohocvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|d:\\\u0111\u1ED3 \u00E1n c#\\s\u1EA3n ph\u1EA9m\\login\\login\\nhanvienchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\nhanvienchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\login\\quanlyphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\quanlyphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\login\\quanlychucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B2CE22-D50D-4F84-B368-F4047196CCD9}|Login\\Qu\u1EA3n L\u00FD Nh\u00E2n S\u1EF1.csproj|solutionrelative:login\\quanlychucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Login\\FormLogin.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\FormLogin.cs",
+              "RelativeToolTip": "Login\\FormLogin.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwGoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:20:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyNhanSu.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyNhanSu.cs",
+              "RelativeDocumentMoniker": "Login\\QuanLyNhanSu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyNhanSu.cs",
+              "RelativeToolTip": "Login\\QuanLyNhanSu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:20:00.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrinhDoHocVan.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\TrinhDoHocVan.cs",
+              "RelativeDocumentMoniker": "Login\\TrinhDoHocVan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\TrinhDoHocVan.cs",
+              "RelativeToolTip": "Login\\TrinhDoHocVan.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAMwMgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:10:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrinhDoHocVan.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\TrinhDoHocVan.cs",
+              "RelativeDocumentMoniker": "Login\\TrinhDoHocVan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\TrinhDoHocVan.cs [Design]",
+              "RelativeToolTip": "Login\\TrinhDoHocVan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:10:27.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyHopDong.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyHopDong.cs",
+              "RelativeDocumentMoniker": "Login\\QuanLyHopDong.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyHopDong.cs",
+              "RelativeToolTip": "Login\\QuanLyHopDong.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAwwMEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:56:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVienChucVu.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\NhanVienChucVu.cs",
+              "RelativeDocumentMoniker": "Login\\NhanVienChucVu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\NhanVienChucVu.cs",
+              "RelativeToolTip": "Login\\NhanVienChucVu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:56:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyPhongBan.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyPhongBan.cs",
+              "RelativeDocumentMoniker": "Login\\QuanLyPhongBan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyPhongBan.cs",
+              "RelativeToolTip": "Login\\QuanLyPhongBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:40:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyChucVu.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyChucVu.cs",
+              "RelativeDocumentMoniker": "Login\\QuanLyChucVu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00C1n C#\\S\u1EA3n Ph\u1EA9m\\Login\\Login\\QuanLyChucVu.cs",
+              "RelativeToolTip": "Login\\QuanLyChucVu.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAswPoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:39:03.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

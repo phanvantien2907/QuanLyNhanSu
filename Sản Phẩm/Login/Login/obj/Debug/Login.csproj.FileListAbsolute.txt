@@ -1,0 +1,99 @@
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.exe
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.pdb
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.Up2Date
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.exe
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.pdb
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.FormDangKy.resources
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.Dashboard.resources
+C:\Users\Ongtr\OneDrive\Máy tính\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.FormLogin.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.exe.config
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.exe
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Login.pdb
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.Dashboard.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.FormDangKy.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.FormLogin.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.csproj.Up2Date
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.exe
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.pdb
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ReaLTaiizor.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ReaLTaiizor.xml
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyNhanSu.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.CaiDatTaiKhoan.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.NhanVienChucVu.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyChucVu.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyHopDong.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyPhongBan.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.TrinhDoHocVan.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\BouncyCastle.Crypto.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\itextsharp.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\itextsharp.xml
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.ThongTin.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyChamCong.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.QuanLyLuong.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\EnvDTE.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\stdole.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án C#\Sản Phẩm\Login\Login\bin\Debug\Report1.rdlc
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.ThongKeNhanVien.resources
+D:\Đồ Án C#\Sản Phẩm\Login\Login\obj\Debug\Login.ThongKeLuong.resources
